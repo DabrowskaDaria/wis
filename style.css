@@ -1,0 +1,58 @@
+body{
+    font-family: Century Gothic;
+    margin: 0 !important;
+}
+
+#header{
+    background-color: #b39c7e;
+    ;
+    height: 20%;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
+
+
+#content{
+    background-color: #9c8b74;
+    height:60%;
+    width:100%;
+    padding: 20px;
+}
+
+#haslo{
+    background-color: #806b4f;
+    text-align: center;
+    margin:auto;
+    padding: 20px;
+}
+
+#footer{
+    background-color:  #b39c7e;
+    ;
+    height: 20%;
+    width: 100%;
+    padding: 20px;
+}
+
+h1{
+    color: rgb(82, 68, 48);
+    font-size: 45px;
+}
+
+input{
+    background-color:rgb(82, 68, 48);
+    width: 30px;
+    height: 25px;
+    border-color: rgb(82, 68, 48);
+    border-radius: 10px;
+    color:white;
+}
+
+#litery{
+    background-color: #9c8b74;
+    width: 300px;
+    height: 120px;
+    margin: auto;
+    border-radius: 30px;
+}
